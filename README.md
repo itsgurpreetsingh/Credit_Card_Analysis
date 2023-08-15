@@ -1,4 +1,4 @@
-# Sampling_Assignment
+# Credit_Card_Analysis
 ## 1. Methodology
 
 ![image](https://user-images.githubusercontent.com/79744977/219941787-1f042372-b704-43ab-83ec-7cea312df128.png)
